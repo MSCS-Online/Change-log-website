@@ -18,8 +18,8 @@ In the latest update to our educational platform, we've made several enhancement
 <img width="250" height="250" alt="Screenshot 2024-04-30 at 5 08 04 PM" src="https://github.com/MSCS-Online/Change-log-website/assets/31228460/292ddf93-5c5f-4919-9eb4-e87f6481c8d8">
 <img width="250" height="250" alt="Screenshot 2024-04-30 at 5 08 10 PM" src="https://github.com/MSCS-Online/Change-log-website/assets/31228460/10cefbf4-e682-4385-b4f2-c29b415e9734">
 <img width="250" height="250" alt="Screenshot 2024-04-30 at 5 07 55 PM" src="https://github.com/MSCS-Online/Change-log-website/assets/31228460/eaa7915f-e2a2-4a14-a22c-1aeac2ef6e2a">
-<img width="250" height="250" alt="Screenshot 2024-04-30 at 5 08 20 PM" src="https://github.com/MSCS-Online/Change-log-website/assets/31228460/37c429d0-ff33-4401-881c-367aceb6a175">
-<img width="250" height="250" alt="Screenshot 2024-04-30 at 5 07 49 PM" src="https://github.com/MSCS-Online/Change-log-website/assets/31228460/a25d18c5-2e6f-4e15-b96d-d844746ade65">
+<img width="250" height="100" alt="Screenshot 2024-04-30 at 5 08 20 PM" src="https://github.com/MSCS-Online/Change-log-website/assets/31228460/37c429d0-ff33-4401-881c-367aceb6a175">
+<img width="250" height="100" alt="Screenshot 2024-04-30 at 5 07 49 PM" src="https://github.com/MSCS-Online/Change-log-website/assets/31228460/a25d18c5-2e6f-4e15-b96d-d844746ade65">
 
 
 3. **Homepage**
