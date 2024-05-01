@@ -15,11 +15,11 @@ In the latest update to our educational platform, we've made several enhancement
    - **Dropdown Menus**: Introduced dropdown selections for grades and terms to standardize user input, ensuring consistency and reliability in the data collected.
    - **Review Writing**: Added a text box for writing detailed personal feedback on courses, which allows for more expressive and helpful reviews.
    - **Visual Enhancements**: Updated the layout and style of the review submission form to be more user-friendly and visually aligned with the rest of the site aesthetics.
-<img width="250" alt="Screenshot 2024-04-30 at 5 08 04 PM" src="https://github.com/MSCS-Online/Change-log-website/assets/31228460/292ddf93-5c5f-4919-9eb4-e87f6481c8d8">
-<img width="250" alt="Screenshot 2024-04-30 at 5 08 10 PM" src="https://github.com/MSCS-Online/Change-log-website/assets/31228460/10cefbf4-e682-4385-b4f2-c29b415e9734">
-<img width="250" alt="Screenshot 2024-04-30 at 5 07 55 PM" src="https://github.com/MSCS-Online/Change-log-website/assets/31228460/eaa7915f-e2a2-4a14-a22c-1aeac2ef6e2a">
-<img width="250" alt="Screenshot 2024-04-30 at 5 08 20 PM" src="https://github.com/MSCS-Online/Change-log-website/assets/31228460/37c429d0-ff33-4401-881c-367aceb6a175">
-<img width="250" alt="Screenshot 2024-04-30 at 5 07 49 PM" src="https://github.com/MSCS-Online/Change-log-website/assets/31228460/a25d18c5-2e6f-4e15-b96d-d844746ade65">
+<img width="250" height="250" alt="Screenshot 2024-04-30 at 5 08 04 PM" src="https://github.com/MSCS-Online/Change-log-website/assets/31228460/292ddf93-5c5f-4919-9eb4-e87f6481c8d8">
+<img width="250" height="250" alt="Screenshot 2024-04-30 at 5 08 10 PM" src="https://github.com/MSCS-Online/Change-log-website/assets/31228460/10cefbf4-e682-4385-b4f2-c29b415e9734">
+<img width="250" height="250" alt="Screenshot 2024-04-30 at 5 07 55 PM" src="https://github.com/MSCS-Online/Change-log-website/assets/31228460/eaa7915f-e2a2-4a14-a22c-1aeac2ef6e2a">
+<img width="250" height="250" alt="Screenshot 2024-04-30 at 5 08 20 PM" src="https://github.com/MSCS-Online/Change-log-website/assets/31228460/37c429d0-ff33-4401-881c-367aceb6a175">
+<img width="250" height="250" alt="Screenshot 2024-04-30 at 5 07 49 PM" src="https://github.com/MSCS-Online/Change-log-website/assets/31228460/a25d18c5-2e6f-4e15-b96d-d844746ade65">
 
 
 3. **Homepage**
